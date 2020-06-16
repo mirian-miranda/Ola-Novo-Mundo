@@ -1,2 +1,2 @@
-# Ola Novo Mundo
+# Ola, Novo Mundo!
  Primeiro repositório(estudo)
